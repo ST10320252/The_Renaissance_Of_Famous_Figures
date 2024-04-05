@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Renaissance Of Famous Figures</string>
+    <string name="therenaissanceoffamousfigures">TheRenaissanceOfFamousFigures</string>
+    <string name="was_famous_for_being_the_16th_president_of_the_united_states_of_america">Was famous for being the 16th president of the United States of America.</string>
+    <string name="background_image_description">Background image depicting famous figures</string>
+    <string name="clear">CLEAR</string>
+    <string name="compare">COMPARE</string>
+    <string name="abraham_lincoln_known_for_leading_the_nation_through_the_civil_war_and_abolishing_slavery_died_at_this_age">Abraham Lincoln, known for leading the nation through the Civil War and abolishing slavery, died at this age.</string>
+    <string name="age_56">Age: 56</string>
+</resources>
